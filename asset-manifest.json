@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodaggregators/static/css/main.74ccbca2.css",
+    "main.js": "/foodaggregators/static/js/main.4ee6f03b.js",
+    "static/js/787.e537fd0c.chunk.js": "/foodaggregators/static/js/787.e537fd0c.chunk.js",
+    "static/media/foodpic.jpg": "/foodaggregators/static/media/foodpic.b27a0d00fec731e70b1e.jpg",
+    "index.html": "/foodaggregators/index.html",
+    "main.74ccbca2.css.map": "/foodaggregators/static/css/main.74ccbca2.css.map",
+    "main.4ee6f03b.js.map": "/foodaggregators/static/js/main.4ee6f03b.js.map",
+    "787.e537fd0c.chunk.js.map": "/foodaggregators/static/js/787.e537fd0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ccbca2.css",
+    "static/js/main.4ee6f03b.js"
+  ]
+}
