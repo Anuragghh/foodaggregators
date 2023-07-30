@@ -1,8 +1,9 @@
 .welcome-msg {
+  font-size: 2.5rem;
   text-align: center;
   margin-top: 50px;
-  color: beige;
-  font-family: fantasy;
+  color: #4c4c4c;
+  font-family: Reem Kufi,sans-serif ;
 }
 
 .addtodo {
